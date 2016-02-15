@@ -7,5 +7,5 @@ Skip the track if you don't like the song, skip the folder if you don't like the
 
 Download the .iso file using the link below and burn to a CD.
 
-https://mega.nz/#!jNwknJ6J (688.3MB)
+https://mega.nz/#!DZQS1JzT!Y79zoFN0BUi-BxPFFJhFtJytFpuk4q7Q0vBWvUZPrNY (688.3MB)
 
