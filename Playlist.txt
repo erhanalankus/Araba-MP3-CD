@@ -1,5 +1,5 @@
 Folder PATH listing
-   
+
 10 Mario
        01 Super Mario Medley.mp3
        03 Battlefield 2 MEC Loading Theme.mp3
@@ -25,16 +25,15 @@ Folder PATH listing
        06 R.Kelly feat. Cassidy - Hotel.mp3
        
 32 Automatic
-       01 Aluna George - Automatic.mp3
-       02 Chemical Brothers - Do It Again (Extended Mix).mp3
-       03 Faithless - Insomnia.mp3
-       04 David Vendetta - Break For Love.mp3
+       01 David Vendetta - Break For Love.mp3
+       02 Faithless - Insomnia.mp3
        
 33 Holden
        01 James Holden - Balance.mp3
-       02 Serge Devant - Addicted.mp3
-       03 Kaskade - Angel On My Shoulder.mp3
-       04 Kreo - Burn For You.mp3
+       02 Aluna George - Automatic.mp3
+       03 Serge Devant - Addicted.mp3
+       04 Kaskade - Angel On My Shoulder.mp3
+       05 Kreo - Burn For You.mp3
        
 34 Sander
        01 Benny Benassi - Who'S Your Daddy.mp3
@@ -43,7 +42,7 @@ Folder PATH listing
        04 TV Rock Feat Seany B - Flaunt It.mp3
        
 35 TRclub
-       02 Erdem Kınay - Helal ettim.mp3
+       02 Erdem Kınay - Helal ettim.mp3
        03 Erdem Kınay - İşporta.mp3
        
 36 Labrinth
@@ -61,13 +60,12 @@ Folder PATH listing
 38 TRkop
        01 Biz iyi biliriz streisand.mp3
        02 Rober Hatemo - Esmer.mp3
-       03 Fatih Ürek - Hadi Hadi Hadi (HoŸgeldin).mp3
+       03 Fatih Ürek - Hadi Hadi Hadi (Hoşgeldin).mp3
        04 Mirkelam - Tavla.mp3
        05 Mirkelam - Ah Bir Joker.mp3
        
 43 Smooth
        01 Santana - Smooth.mp3
-       02 Ricky Martin - La bomba.mp3
        03 Enrique Iglesias - Bailamos.mp3
        04 Could I Have This Kiss Forever.mp3
        
@@ -107,10 +105,10 @@ Folder PATH listing
        
 51 Teoman
        Teoman - Aşk Kırıntıları.MP3
-       Teoman - Iki Yabancı.mp3
+       Teoman - İki Yabancı.mp3
        
 52 HaramGeceler
-       01 Yaşar - Kör Bıçak.mp3
+       01 Yasar - Kör Bıçak.mp3
        03 Manga - Cevapsız Sorular.mp3
        04 Hayrettin - Haram Geceler.mp3
        06 Athena - Yalan.mp3
@@ -139,12 +137,12 @@ Folder PATH listing
        02 Louis Armstrong - Cheek To Cheek.mp3
        03 Louis Armstrong - La Vie En Rose.mp3
        
-59 Aşk
+59 AŸk
        01 Model - Yolun Başı.mp3
-       02 Sertab Erener - Seyrüsefer.mp3
+       02 Sertab Erener - Seyrüsefer.mp3
        03 Sertab Erener - Yara.mp3
-       05 Nil Karaibrahimgil - Rüzgar.mp3
-       06 Nil Karairahimgil - Kovboy.mp3
+       05 Nil Karaibrahimgil - Rüzgar.mp3
+       06 Nil Karaibrahimgil - Kovboy.mp3
        
 60 WaitingLine
        01 Garden State. Zero 7-In The Waiting Line.mp3
