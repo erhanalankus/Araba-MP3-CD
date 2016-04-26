@@ -1,187 +1,190 @@
 Folder PATH listing
-
-10 Mario
-       01 Super Mario Medley.mp3
-       03 Battlefield 2 MEC Loading Theme.mp3
-       04 Battlefield 2 US Loading Theme.mp3
-       
-20 Gangsta
-       01 Jay-Z feat. Rihanna & Kanye West - Run This Town.mp3
-       02 Justin Timberlake - Carry Out.mp3
-       03 50 Cent - Just A Little Bit.mp3
-       04 Ciara - Goodies.mp3
-       
-30 UP
-       01 Jason Derulo - Talk Dirty.mp3
-       02 Katy Perry - Dark Horse.mp3
-       03 Mashup Germany - Top of the Pops 2011.mp3
-       
-31 Mecbursun
-       01 Sertab Erener - Mecbursun.mp3
-       02 Christina Aguilera - Genie In A Bottle.mp3
-       03 Ace of Base - The Sign.mp3
-       04 Busta Rhymes feat Mariah Carey - I Know What You Want.mp3
-       05 Dante Thomas - Miss California.mp3
-       06 R.Kelly feat. Cassidy - Hotel.mp3
-       
-32 Automatic
-       01 David Vendetta - Break For Love.mp3
-       02 Faithless - Insomnia.mp3
-       
-33 Holden
-       01 James Holden - Balance.mp3
-       02 Aluna George - Automatic.mp3
-       03 Serge Devant - Addicted.mp3
-       04 Kaskade - Angel On My Shoulder.mp3
-       05 Kreo - Burn For You.mp3
-       
-34 Sander
-       01 Benny Benassi - Who'S Your Daddy.mp3
-       02 Benny Benassi - Love Is Gonna Save Us.mp3
-       03 Sander Kleinenberg - The Fruit.mp3
-       04 TV Rock Feat Seany B - Flaunt It.mp3
-       
-35 TRclub
-       02 Erdem Kınay - Helal ettim.mp3
-       03 Erdem Kınay - İşporta.mp3
-       
-36 Labrinth
-       01 Labrinth - Earthquake.mp3
-       02-cracks_(flux_pavillion_remix).mp3
-       03-cracks_(demus_remix).mp3
-       04-cracks_(losers_remix).mp3
-       
-37 Ronson
-       01 Mario Üskdar.mp3
-       02 Mark Ronson - Toxic.mp3
-       03 Mask.mp3
-       04 Mory Kante - Ye Ke Ye Ke.mp3
-       
-38 TRkop
-       01 Biz iyi biliriz streisand.mp3
-       02 Rober Hatemo - Esmer.mp3
-       03 Fatih Ürek - Hadi Hadi Hadi (Hoşgeldin).mp3
-       04 Mirkelam - Tavla.mp3
-       05 Mirkelam - Ah Bir Joker.mp3
-       
-43 Smooth
-       01 Santana - Smooth.mp3
-       03 Enrique Iglesias - Bailamos.mp3
-       04 Could I Have This Kiss Forever.mp3
-       
-45 Brg
-       01 All Saints - Never Ever.MP3
-       02 Irene Noris - Recongn-Eyez.mp3
-       03 Ellie Goulding - Lights.mp3
-       04 Lisa Stansfield - The Real Thing.mp3
-       
-46 ElectroCrush
-       01 Campsite Dream - Crush.mp3
-       02 Jetta - Feels Like Coming Home.mp3
-       03 Alice Jemima - No Diggity.mp3
-       
-47 Bossa
-       01 Marcela Mangabeira - Loving You (Bossa Version).mp3
-       01 Marcela Mangabeira - You're Beautiful (Bossa Version).mp3
-       09 Cris Delanno - Isn't She Lovely (Bossa Version).mp3
-       
-48 B2M
-       01 Boyz II Men - End of the Road.mp3
-       02 Boyz II Men - It's So Hard To Say Goodbye To Yesterday.mp3
-       03 Boyz II Men - Yesterday.mp3
-       04 The Tony Rich Project - Nobody Knows It But Me.mp3
-       
-49 Sting
-       01 Sting - Roxanne (Live Tuscany, 2001).mp3
-       02 Sting & Eric Clapton - It's Probably Me.mp3
-       03 Extreme - More Than Words.mp3
-       04 Oasis - Wonderwall.mp3
-       
-50 Iris
-       01 Goo Goo Dolls - Iris.mp3
-       02 Kl - Derin.mp3
-       03 Kelly Clarkson - Addicted.mp3
-       04 Bring Me To Life.mp3
-       
-51 Teoman
-       Teoman - Aşk Kırıntıları.MP3
-       Teoman - İki Yabancı.mp3
-       
-52 HaramGeceler
-       01 Yasar - Kör Bıçak.mp3
-       03 Manga - Cevapsız Sorular.mp3
-       04 Hayrettin - Haram Geceler.mp3
-       06 Athena - Yalan.mp3
-       
-53 Soft
-       01 Jason Mraz - Lucky feat. Colbie Caillat.mp3
-       02 Joshua Radin - I'd Rather Be With You.mp3
-       03 Howie Day - Collide.mp3
-       05 The Cranberries - Linger.mp3
-       06 Tori Amos - Sleeps With Butterflies.mp3
-       
-54 Fragile
-       01 Sting - Fragile.mp3
-       02 Sting - Shape Of My Heart.mp3
-       03 Sade - No ordinary love.mp3
-       04 Sade - By Your Side.mp3
-       
-55 MyAll
-       01 Mariah Carey - My All.mp3
-       02 George Michael - Careless Whisper.mp3
-       03 Cranberries - Ode To My Family.mp3
-       04 Avril Lavigne - Nobody's Home.mp3
-       
-56 Jazz
-       01 Louis Armstrong - Kiss to Build a Dream On.mp3
-       02 Louis Armstrong - Cheek To Cheek.mp3
-       03 Louis Armstrong - La Vie En Rose.mp3
-       
-59 Aşk
-       01 Model - Yolun Başı.mp3
-       02 Sertab Erener - Seyrüsefer.mp3
-       03 Sertab Erener - Yara.mp3
-       05 Nil Karaibrahimgil - Rüzgar.mp3
-       06 Nil Karaibrahimgil - Kovboy.mp3
-       
-60 WaitingLine
-       01 Garden State. Zero 7-In The Waiting Line.mp3
-       02 Telepopmusik - Breathe.mp3
-       03 Zero 7 - Destiny.mp3
-       
-71 Acap
-       01 God Only Knows.mp3
-       02 There Will Never be Another You.mp3
-       03 Over The Rainbow.mp3
-       04 Shai - If I Ever Fall In Love Again.mp3
-       05 Rockapella - I'll Hear Your Voice.mp3
-       
-72 Alison
-       01 Alison Krauss - Baby, Now That I've Found You.mp3
-       02 Alison Krauss - Forget About It.mp3
-       03 Alison Krauss - I Will.mp3
-       04 Alison Krauss - When You Say Nothing At All.mp3
-       
-80 80s
-       01 Paula Abdul - Straight Up.mp3
-       02 Richard Marx - Hazard.mp3
-       03 Survivor - Eye Of The Tiger.mp3
-       
-81 Snoop
-       01 Snoop Doggy Dogg - Who Am I (What's My Name).mp3
-       02 Snoop Dogg - Ain't Nothing But a G Thang.mp3
-       03 Geto Boys - Damn It Feels Good To Be A Gangsta.mp3
-       04 stanturk.mp3
-       
-90 S
-       01 Hooverphonic - Eden.mp3
-       02 Lamb - Gabriel.mp3
-       03 Lamb - I Cry.mp3
-       05 Portishead - Roads.mp3
-       06 Sia - Breathe Me.mp3
-       07 Sia - blow it all away.mp3
-       
-99 Kings of Convenience - Riot on an empty street (2004)
+    
+    10 Mario
+        01 Super Mario Medley.mp3
+        03 Battlefield 2 MEC Loading Theme.mp3
+        04 Battlefield 2 US Loading Theme.mp3
+        
+    20 Gangsta
+        01 Jay-Z feat. Rihanna & Kanye West - Run This Town.mp3
+        02 Justin Timberlake - Carry Out.mp3
+        03 50 Cent - Just A Little Bit.mp3
+        04 Ciara - Goodies.mp3
+        
+    30 UP
+        01 Jason Derulo - Talk Dirty.mp3
+        02 Katy Perry - Dark Horse.mp3
+        03 Mashup Germany - Top of the Pops 2011.mp3
+        
+    31 Mecbursun
+        01 Sertab Erener - Mecbursun.mp3
+        02 Christina Aguilera - Genie In A Bottle.mp3
+        03 Ace of Base - The Sign.mp3
+        04 Busta Rhymes feat Mariah Carey - I Know What You Want.mp3
+        05 Dante Thomas - Miss California.mp3
+        
+    33 Faithless
+        01 David Vendetta - Break For Love.mp3
+        02 Faithless - Insomnia.mp3
+        03 ZHU - West Coast.mp3
+        
+    34 Holden
+        01 James Holden - Balance.mp3
+        02 Aluna George - Automatic.mp3
+        03 Serge Devant - Addicted.mp3
+        04 Kaskade - Angel On My Shoulder.mp3
+        05 Kreo - Burn For You.mp3
+        
+    35 Sander
+        01 Benny Benassi - Who'S Your Daddy.mp3
+        02 Benny Benassi - Love Is Gonna Save Us.mp3
+        03 Sander Kleinenberg - The Fruit.mp3
+        04 TV Rock Feat Seany B - Flaunt It.mp3
+        
+    36 TRclub
+        02 Erdem Kınay - Helal ettim.mp3
+        03 Erdem Kınay - İşporta.mp3
+        
+    37 Labrinth
+        01 Labrinth - Earthquake.mp3
+        02-cracks_(flux_pavillion_remix).mp3
+        03-cracks_(demus_remix).mp3
+        04-cracks_(losers_remix).mp3
+        
+    38 Ronson
+        01 Mario Üsküdar.mp3
+        02 Mark Ronson - Toxic.mp3
+        03 Mask.mp3
+        04 Mory Kante - Ye Ke Ye Ke.mp3
+        
+    39 TRkop
+        01 Biz iyi biliriz streisand.mp3
+        02 Rober Hatemo - Esmer.mp3
+        03 Fatih Ürek - Hadi Hadi Hadi (Hoşgeldin).mp3
+        04 Mirkelam - Tavla.mp3
+        05 Mirkelam - Ah Bir Joker.mp3
+        
+    43 Smooth
+        01 Santana - Smooth.mp3
+        03 Enrique Iglesias - Bailamos.mp3
+        04 Could I Have This Kiss Forever.mp3
+        
+    45 Brg
+        01 All Saints - Never Ever.MP3
+        02 Irene Noris - Recongn-Eyez.mp3
+        03 Ellie Goulding - Lights.mp3
+        04 Lisa Stansfield - The Real Thing.mp3
+        
+    46 ElectroCrush
+        01 Campsite Dream - Crush.mp3
+        03 Alice Jemima - No Diggity.mp3
+        
+    47 Bossa
+        01 Marcela Mangabeira - Loving You (Bossa Version).mp3
+        01 Marcela Mangabeira - You're Beautiful (Bossa Version).mp3
+        09 Cris Delanno - Isn't She Lovely (Bossa Version).mp3
+        
+    48 B2M
+        01 Boyz II Men - End of the Road.mp3
+        02 Boyz II Men - It's So Hard To Say Goodbye To Yesterday.mp3
+        03 Boyz II Men - Yesterday.mp3
+        04 The Tony Rich Project - Nobody Knows It But Me.mp3
+        
+    49 Sting
+        01 Sting - Roxanne (Live Tuscany, 2001).mp3
+        02 Sting & Eric Clapton - It's Probably Me.mp3
+        03 Extreme - More Than Words.mp3
+        04 Oasis - Wonderwall.mp3
+        
+    50 Iris
+        01 Goo Goo Dolls - Iris.mp3
+        02 Kül - Derin.mp3
+        03 Kelly Clarkson - Addicted.mp3
+        04 Bring Me To Life.mp3
+        
+    51 Teoman
+        Teoman - Aşk Kırıntıları.MP3
+        Teoman - Iki Yabancı.mp3
+        
+    52 HaramGeceler
+        01 Yasar - Kor Bicak.mp3
+        03 Manga - Cevapsiz Sorular.mp3
+        04 Hayrettin - Haram Geceler.mp3
+        06 Athena - Yalan.mp3
+        
+    53 Soft
+        01 Jason Mraz - Lucky feat. Colbie Caillat.mp3
+        02 Joshua Radin - I'd Rather Be With You.mp3
+        03 Howie Day - Collide.mp3
+        05 The Cranberries - Linger.mp3
+        06 Tori Amos - Sleeps With Butterflies.mp3
+        
+    54 Fragile
+        01 Sting - Fragile.mp3
+        02 Sting - Shape Of My Heart.mp3
+        03 Sade - No ordinary love.mp3
+        04 Sade - By Your Side.mp3
+        
+    55 MyAll
+        01 Mariah Carey - My All.mp3
+        02 George Michael - Careless Whisper.mp3
+        03 Cranberries - Ode To My Family.mp3
+        
+    56 Jazz
+        01 Louis Armstrong - Kiss to Build a Dream On.mp3
+        02 Louis Armstrong - Cheek To Cheek.mp3
+        03 Louis Armstrong - La Vie En Rose.mp3
+        
+    59 Aşk
+        01 Model - Yolun Başı.mp3
+        02 Sertab Erener - Seyrüsefer.mp3
+        03 Sertab Erener - Yara.mp3
+        05 Nil Karaibrahimgil - Rüzgar.mp3
+        06 Nil Karairahimgil - Kovboy.mp3
+        
+    60 WaitingLine
+        01 Garden State. Zero 7-In The Waiting Line.mp3
+        02 Telepopmusik - Breathe.mp3
+        03 Zero 7 - Destiny.mp3
+        
+    71 Acap
+        01 God Only Knows.mp3
+        02 There Will Never be Another You.mp3
+        03 Over The Rainbow.mp3
+        04 Shai - If I Ever Fall In Love Again.mp3
+        05 Rockapella - I'll Hear Your Voice.mp3
+        
+    72 Alison
+        01 Alison Krauss - Baby, Now That I've Found You.mp3
+        02 Alison Krauss - Forget About It.mp3
+        03 Alison Krauss - I Will.mp3
+        04 Alison Krauss - When You Say Nothing At All.mp3
+        
+    80 80s
+        01 Paula Abdul - Straight Up.mp3
+        02 Richard Marx - Hazard.mp3
+        03 Survivor - Eye Of The Tiger.mp3
+        
+    81 Presidents
+        01 Last Girl On Earth.mp3
+        02 Back Porch.mp3
+        05 We Are Not Going to Make It.mp3
+        
+    85 Snoop
+        01 Snoop Doggy Dogg - Who Am I (What's My Name).mp3
+        02 Snoop Dogg - Ain't Nothing But a G Thang.mp3
+        03 Geto Boys - Damn It Feels Good To Be A Gangsta.mp3
+        04 stanturk.mp3
+        
+    90 S
+        01 Hooverphonic - Eden.mp3
+        02 Lamb - Gabriel.mp3
+        03 Lamb - I Cry.mp3
+        05 Portishead - Roads.mp3
+        06 Sia - Breathe Me.mp3
+        07 Sia - blow it all away.mp3
+        
+    99 Kings of Convenience - Riot on an empty street (2004)
         01-kings_of_convenience-homesick.mp3
         02-kings_of_convenience-misread.mp3
         03-kings_of_convenience-cayman_islands.mp3
@@ -193,4 +196,3 @@ Folder PATH listing
         09-kings_of_convenience-live_long.mp3
         10-kings_of_convenience-surprise_ice.mp3
         12-kings_of_convenience-the_build_up.mp3
-        
